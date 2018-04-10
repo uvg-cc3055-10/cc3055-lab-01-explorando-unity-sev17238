@@ -41,3 +41,15 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: sky
+    uniqueID: 3309618917
+    locked: 0
+  - name: grass
+    uniqueID: 749342239
+    locked: 0
+  - name: bird
+    uniqueID: 2131454903
+    locked: 0
+  - name: columna
+    uniqueID: 1115062853
+    locked: 0
